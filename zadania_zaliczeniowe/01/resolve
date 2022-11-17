@@ -1,0 +1,1 @@
+openssl enc -d  -aes-256-cbc -in ./cs.out -k bf214eb9-5acc-4be5-b5c2-679a12816e5c -pbkdf2 -out data.txt

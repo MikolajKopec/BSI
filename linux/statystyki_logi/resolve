@@ -1,0 +1,7 @@
+logowanie ssh
+ssh -l alice 10.0.43.214
+wc textfile.log
+
+1 liczba - liczba linijek
+
+cat textfile.txt | head -liczba_linijek

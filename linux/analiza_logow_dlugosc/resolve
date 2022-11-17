@@ -1,0 +1,5 @@
+-E  = wyraenie regulardne
+^ = od poczatku lini
+{} = zakres ile razy ma sie powtorzyc znak
+. = dowolny znak
+cat audit.log | grep -E "^.{150,180}"

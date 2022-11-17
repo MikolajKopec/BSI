@@ -1,0 +1,1 @@
+cat texfile.txt | grep 'text_to_find'

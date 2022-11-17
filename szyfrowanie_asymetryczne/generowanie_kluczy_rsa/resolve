@@ -1,0 +1,4 @@
+openssl genrsa -out priv.pem 4096 
+openssl rsa -in priv.pem -pubout -out pub.pem
+openssl rsa -in pub.pem -pubin -text   
+openssl rsa -in priv.pem -text      

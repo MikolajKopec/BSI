@@ -1,0 +1,2 @@
+openssl rsautl -encrypt -in data.txt -inkey pub.pem -out data.enc -pubin  -oaep
+base64 data.enc -w 

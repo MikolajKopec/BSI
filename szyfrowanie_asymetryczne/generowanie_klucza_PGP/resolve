@@ -1,0 +1,3 @@
+gpg --gen-key   
+gpg --list-key  
+gpg --export --armor Aleah Sampson

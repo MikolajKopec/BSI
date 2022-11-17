@@ -1,0 +1,4 @@
+gpg --show-key pub.pem    
+gpg --import pub.pem                   
+gpg --encrypt --armor --recipient contact data.txt
+echo -n cOyoWaFZyw98tUelCQuE | gpg --encrypt --armor --recipient contact 

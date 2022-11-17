@@ -1,0 +1,4 @@
+tworzenie centrum -> cert_z_zadanym_polem
+openssl x509 -req -CAkey ca.key -CA ca.crt -in request.csr -CAcreateserial -out client.crt
+
+request.csr -> request

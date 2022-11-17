@@ -1,0 +1,17 @@
+-aes-128-ecb  
+-aes-192-ecb
+-aes-256-ecb 
+-aria-128-ecb 
+-aria-192-ecb 
+-aria-256-ecb 
+-camellia-128-ecb 
+-bf-ecb  
+-camellia-192-ecb 
+-camellia-256-ecb 
+-cast5-ecb 
+-des-ecb 
+-rc2-ecb 
+-des-ede-ecb 
+-des-ede3-ecb 
+-seed-ecb  
+-sm4-ecb

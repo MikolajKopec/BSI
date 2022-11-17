@@ -1,0 +1,3 @@
+gpg --gen-key             
+gpg --export --armor test test   
+gpg --decrypt data.enc

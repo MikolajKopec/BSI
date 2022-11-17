@@ -1,0 +1,1 @@
+ john --format='raw-md5' --wordlist=rockyou.txt hash

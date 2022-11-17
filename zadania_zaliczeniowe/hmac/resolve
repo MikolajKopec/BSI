@@ -1,0 +1,1 @@
+echo -n "RCPf8X4LeDh2LZqKiNmu" | openssl dgst -sha512 -hmac "X2N8rXibkkfXRh5aCJ4a"
